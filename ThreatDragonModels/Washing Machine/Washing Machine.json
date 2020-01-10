@@ -909,7 +909,7 @@
                   "position": 0.5,
                   "attrs": {
                     "text": {
-                      "text": "flow 26",
+                      "text": "MotorState",
                       "font-weight": "400",
                       "font-size": "small"
                     }
@@ -917,7 +917,15 @@
                 }
               ],
               "z": 31,
-              "attrs": {}
+              "hasOpenThreats": false,
+              "attrs": {
+                ".marker-target": {
+                  "class": "marker-target hasNoOpenThreats isInScope"
+                },
+                ".connection": {
+                  "class": "connection hasNoOpenThreats isInScope"
+                }
+              }
             }
           ]
         },
