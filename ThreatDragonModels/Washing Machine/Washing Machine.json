@@ -1,0 +1,17 @@
+{
+  "summary": {
+    "title": "Washing Machine",
+    "owner": "Daniel"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "WashingDiagram",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Daniel"
+  }
+}
