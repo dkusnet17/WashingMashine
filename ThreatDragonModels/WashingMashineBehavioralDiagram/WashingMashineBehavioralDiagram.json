@@ -1,0 +1,17 @@
+{
+  "summary": {
+    "title": "WashingMashineBehavioralDiagram",
+    "owner": "Daniel"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "WashingMashineBehavioralDiagram",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Daniel"
+  }
+}
