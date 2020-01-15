@@ -1,0 +1,77 @@
+{
+  "summary": {
+    "title": "WashingMachineContextDiagram1",
+    "owner": "Daniel"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "WashingMachineContextDiagram",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0,
+        "diagramJson": {
+          "cells": [
+            {
+              "type": "tm.Actor",
+              "size": {
+                "width": 160,
+                "height": 80
+              },
+              "position": {
+                "x": 42,
+                "y": 103
+              },
+              "angle": 0,
+              "id": "faba7e56-facf-4ac8-bf2d-23b15cf02869",
+              "z": 1,
+              "hasOpenThreats": false,
+              "attrs": {
+                ".element-shape": {
+                  "class": "element-shape hasNoOpenThreats isInScope"
+                },
+                "text": {
+                  "text": "actor 0"
+                },
+                ".element-text": {
+                  "class": "element-text hasNoOpenThreats isInScope"
+                }
+              }
+            },
+            {
+              "type": "tm.Actor",
+              "size": {
+                "width": 160,
+                "height": 80
+              },
+              "position": {
+                "x": 371,
+                "y": 106
+              },
+              "angle": 0,
+              "id": "70090694-67c1-4bf7-9bfd-1e0a404293e4",
+              "z": 2,
+              "hasOpenThreats": false,
+              "attrs": {
+                ".element-shape": {
+                  "class": "element-shape hasNoOpenThreats isInScope"
+                },
+                "text": {
+                  "text": "actor 1"
+                },
+                ".element-text": {
+                  "class": "element-text hasNoOpenThreats isInScope"
+                }
+              }
+            }
+          ]
+        },
+        "size": {
+          "height": 590,
+          "width": 790
+        }
+      }
+    ],
+    "reviewer": "Daniel"
+  }
+}
